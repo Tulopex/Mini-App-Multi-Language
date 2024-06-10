@@ -6,7 +6,7 @@ from aiogram.types import Message
 from aiogram.types.web_app_info import WebAppInfo
 from aiogram.utils.keyboard import InlineKeyboardButton, InlineKeyboardMarkup
 
-bot = Bot(token="7491358509:AAFduYaD1INiYUDZWWbF7GSPCdgJNXTkVrY")
+bot = Bot(token="")
 dp = Dispatcher()
 
 
